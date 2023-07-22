@@ -40,6 +40,4 @@ public class Management {
         System.out.println(availableBooks);
     }
 
-
-
 }
