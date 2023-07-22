@@ -34,8 +34,8 @@ public class Management {
     }
 
     public void updateBook(int ISBN){
-
     }
+
     public void viewAvailableBook() {
         System.out.println(availableBooks);
     }
